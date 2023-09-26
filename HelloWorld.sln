@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld.csproj", "{1B9A1F08-F421-402A-992C-CA697438A193}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises_1_SUM_OF", "..\Exercises\Exercises_1_SUM_OF.csproj", "{438953FB-F7BF-4437-A3FE-CBF14D74EF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_1_SUM_OF", "..\Exercises\Exercise_1_SUM_OF.csproj", "{438953FB-F7BF-4437-A3FE-CBF14D74EF79}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_2", "..\Exercise_2\Exercise_2.csproj", "{C18A8143-B913-4E62-906C-054C5FCC9B2F}"
 EndProject
@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_4_Circumference_Of
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_5_Angle", "..\Exercise_5_Angle\Exercise_5_Angle.csproj", "{322A87D9-B3E7-42B2-A60A-C3F843258754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercis_6_Money", "..\Type\Exercis_6_Money.csproj", "{0A082E4E-D960-410F-850D-14C27AF34742}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_6_Money", "..\Type\Exercise_6_Money.csproj", "{0A082E4E-D960-410F-850D-14C27AF34742}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_7_Time", "..\Exercise_7_Time\Exercise_7_Time.csproj", "{A398F5B6-F6FA-4537-BAA7-C61B7D216E65}"
 EndProject
